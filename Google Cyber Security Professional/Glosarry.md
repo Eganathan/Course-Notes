@@ -101,7 +101,7 @@ Any circumstance or event that can negatively impact assets
 
 **Security governance**: Practices that help support, define, and direct security efforts of an organization
 
-## The Eight CISSP (Certified Information Systems Security Professional)
+**The Eight CISSP (Certified Information Systems Security Professional)**
 - Security and Risk Management.
 - Asset Security.
 - Security Architecture and Engineering.
