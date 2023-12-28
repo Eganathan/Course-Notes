@@ -15,7 +15,7 @@
 
 ## 5. IAM (Identity and access management)
   Focused on access and authorization to keep data secure by making sure users follow established policies to control and manage assets.
-      ### Components of IAM
+###     Components of IAM
         1. Identification : (username, access card, fingerprint, etc which is a reference to their identity)
         2. Authentication: (is a process of proving their identity like password or pin)
         3. Authorization : (this process is taking place after the identity has been confirmed, which grants a level of access as per the standards of the company)
